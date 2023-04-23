@@ -1,0 +1,34 @@
+{
+  "title": "Settings",
+  "task": {
+    "title": "Task schedule",
+    "GET_CUSTOMERS": "Update customers from Europace",
+    "interval": {
+      "NONE": "not repeatable",
+      "MINUTE": "every N minutes",
+      "HOUR": "every N hours",
+      "DAY": "every N days"
+    },
+    "startDate": "Task starts at"
+  },
+  "placement": {
+    "title": "Location of the login button",
+    "process": "Smart-processes",
+    "tab": "Europace"
+  },
+  "robot": {
+    "events": "Robot events",
+    "EUROPACE_CASE_PUT": "Send case to Europace",
+    "EUROPACE_CASE_GET": "Get case from Europace"
+  },
+  "authorization": {
+    "title": "Bitrix Authorization",
+    "notAuthorized": "The server has no access to Bitrix24",
+    "authorized": "Server authorization: {{0}}",
+    "sendAuth": "Send credentials"
+  },
+  "adminlist": {
+    "title": "App admins",
+    "select": "Choose user(s)"
+  }
+}

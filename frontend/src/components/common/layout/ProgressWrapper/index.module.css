@@ -1,0 +1,13 @@
+.inProgress {
+   background: #fff;
+   opacity: .3;
+}
+
+.hidden {
+   display: none!important;
+}
+
+.progressWrapper {
+   width: 100%;
+   height: 10px;
+}

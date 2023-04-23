@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "settings": "Einstellungen",
+    "tasks": "Zeitplan",
+    "matching": "Felder übereinstimmen"
+  },
+  "button": {
+    "add": "Hinzufügen",
+    "save": "Speichern",
+    "change": "Änderungsänderung",
+    "back": "Zurück",
+    "delete": "Löschen",
+    "execute": "Ausführen",
+    "cancel": "Abbrechen"
+  },
+  "pagination": {
+    "perPage": "Beiträge pro Seite",
+    "displayedRows": "{{0}}–{{1}} von {{2}}"
+  }
+}

@@ -1,0 +1,11 @@
+.MuiOutlinedInput-root {
+  border-radius: 10px !important;
+}
+
+.selectControlError .MuiOutlinedInput-root {
+  background: #ffcccc;
+}
+
+.selectControlValue .MuiOutlinedInput-notchedOutline {
+  border-color: #1976D2 !important;
+}

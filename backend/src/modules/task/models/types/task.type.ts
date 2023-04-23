@@ -1,0 +1,1 @@
+export type TaskType = 'STUB' | 'GET_CUSTOMERS' | 'GET_CUSTOMERS_BY_CREDENTIALS';

@@ -1,0 +1,17 @@
+{
+  "validation": "Invalid data",
+  "unhandled": "Server Error",
+  "unexpected": "An unexpected error occurred",
+  "notFound": "The requested data was not found",
+  "accessDenied": "Access Denied",
+  "accessInsufficient": "Insufficient rights to perform the action",
+  "badRequest": "Bad Request",
+  "notFoundBxUser": "The specified Bitrix24 user was not found",
+  "task": {
+    "notFound": "Task not found"
+  },
+  "robotUpdateFailed": "Failed to update robot state",
+  "Forbidden resource": "Access denied",
+  "apiAccessDenied": "Fonds Finanz API access denied",
+  "wrongApiCredentials": "Wrong credentials, access denied"
+}

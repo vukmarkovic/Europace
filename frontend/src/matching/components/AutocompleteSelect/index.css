@@ -1,0 +1,12 @@
+.DefaultValue > .MuiAutocomplete-root {
+   width: 220px;
+}
+.DefaultValue .MuiOutlinedInput-root {
+   padding: 8.5px 14px!important;
+}
+.DefaultValue .MuiOutlinedInput-input {
+   padding: 0!important;
+}
+.DefaultValue .MuiInputLabel-root:not(.Mui-focused):not(.MuiFormLabel-filled) {
+   transform: translate(14px, 9px) scale(1)!important;
+}

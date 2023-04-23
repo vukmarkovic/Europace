@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "settings": "Settings",
+    "tasks": "Schedule",
+    "matching": "Fields matching"
+  },
+  "button": {
+    "add": "Add",
+    "save": "Save",
+    "change": "Change",
+    "back": "Back",
+    "delete": "Delete",
+    "execute": "Execute",
+    "cancel": "Cancel"
+  },
+  "pagination": {
+    "perPage": "Posts per page",
+    "displayedRows": "{{0}}–{{1}} of {{2}}"
+  }
+}

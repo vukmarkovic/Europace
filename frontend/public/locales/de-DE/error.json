@@ -1,0 +1,17 @@
+{
+  "validation": "Ungültige Daten",
+  "unhandled": "Serverfehler",
+  "unexpected": "Ein unerwarteter Fehler ist aufgetreten",
+  "notFound": "Die angeforderten Daten wurden nicht gefunden",
+  "accessDenied": "Zugriff verweigert",
+  "accessInsufficient": "Unzureichende Rechte zum Ausführen der Aktion",
+  "badRequest": "Schlechte Anfrage",
+  "notFoundBxUser": "Der angegebene Bitrix24-Benutzer wurde nicht gefunden",
+  "task": {
+    "notFound": "Aufgabe nicht gefunden"
+  },
+  "robotUpdateFailed": "Roboterstatus konnte nicht aktualisiert werden",
+  "Forbidden resource": "Zugriff verweigert",
+  "apiAccessDenied": "Fonds Finanz API Zugriff verweigert",
+  "wrongApiCredentials": "Falsche Zugangsdaten, Zugriff verweigert"
+}

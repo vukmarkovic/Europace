@@ -1,0 +1,34 @@
+{
+  "title": "Einstellungen",
+  "task": {
+    "title": "Aufgabenplan",
+    "GET_CUSTOMERS": "Aktualisieren Sie Kunden von Europace",
+    "interval": {
+      "NONE": "nicht wiederholbar",
+      "MINUTE": "alle N Minuten",
+      "HOUR": "alle N Stunden",
+      "DAY": "alle N Tage"
+    },
+    "startDate": "Aufgabe beginnt um"
+  },
+  "placement": {
+    "title": "Position der Anmeldeschaltfläche",
+    "process": "Smartprozesse",
+    "tab": "Europace"
+  },
+  "robot": {
+    "events": "Roboterereignisse",
+    "EUROPACE_CASE_PUT": "Senden Sie den Fall an Europace",
+    "EUROPACE_CASE_GET": "Holen Sie sich Fall von Europace"
+  },
+  "authorization": {
+    "title": "Bitrix-Autorisierung",
+    "notAuthorized": "Der Server hat keinen Zugriff auf Bitrix24",
+    "authorized": "Serverautorisierung: {{0}}",
+    "sendAuth": "Zugangsdaten senden"
+  },
+  "adminlist": {
+    "title": "App Admins",
+    "select": "Benutzer auswählen"
+  }
+}
